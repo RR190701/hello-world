@@ -8,7 +8,7 @@
 - [X] Express
 
 
-### components
+# components
 - CSS: Styling web pages, html files
 - Javascript: Primary programing language
 - nodejs: Used in the backend
